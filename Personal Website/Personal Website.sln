@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal Website", "Personal Website.csproj", "{71C467F6-0DC4-4A78-BEF3-27860F43FC3A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2015AD04-0C0D-4267-A6F8-1DD30BED0C63}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - University of Oklahoma\Desktop\Headshot.jpg = ..\..\..\..\OneDrive - University of Oklahoma\Desktop\Headshot.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
